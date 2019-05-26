@@ -1,0 +1,4 @@
+﻿  ticTacToe.cpp
+c:\users\i love my girlfriend\documents\c++\tictactoe\tictactoe\tictactoe.cpp(220): warning C4305: 'return': truncation from 'int' to 'char'
+c:\users\i love my girlfriend\documents\c++\tictactoe\tictactoe\tictactoe.cpp(220): warning C4309: 'return': truncation of constant value
+  ticTacToe.vcxproj -> C:\Users\i love my girlfriend\Documents\c++\ticTacToe\Debug\ticTacToe.exe
